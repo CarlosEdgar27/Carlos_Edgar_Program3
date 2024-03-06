@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Erick estuvo aqui");
+Console.WriteLine("Nvidia>AMD");
+Console.WriteLine("Erick no estuvo aquí");
+Console.WriteLine("Erick no estuvo aquí, otra vez");
