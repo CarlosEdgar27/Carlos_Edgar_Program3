@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj": {}
+    "C:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj": {
+    "C:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj",
+        "projectUniqueName": "C:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj",
         "projectName": "clase1",
-        "projectPath": "c:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj",
+        "projectPath": "C:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\clase1.csproj",
         "packagesPath": "C:\\Users\\ELIA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\obj\\",
+        "outputPath": "C:\\Users\\ELIA\\Desktop\\UPC\\Programación_III\\Carlos_Edgar_Coronado_Luján\\clase1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
